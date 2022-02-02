@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/recruit-app/static/css/main.073c9b0a.css",
+    "main.js": "/recruit-app/static/js/main.5124a941.js",
+    "static/js/787.51ef70a3.chunk.js": "/recruit-app/static/js/787.51ef70a3.chunk.js",
+    "static/media/logo.svg": "/recruit-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/recruit-app/index.html",
+    "main.073c9b0a.css.map": "/recruit-app/static/css/main.073c9b0a.css.map",
+    "main.5124a941.js.map": "/recruit-app/static/js/main.5124a941.js.map",
+    "787.51ef70a3.chunk.js.map": "/recruit-app/static/js/787.51ef70a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5124a941.js"
+  ]
+}
